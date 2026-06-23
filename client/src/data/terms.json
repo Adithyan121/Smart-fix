@@ -1,0 +1,27 @@
+[
+  {
+    "id": "service",
+    "title": "Service Policy",
+    "content": "All devices checked into Smart Fix are subject to an initial diagnostic sweep. We prioritize user privacy and will request passcode access only when necessary for hardware diagnostic validation (such as front/rear camera and audio verification). We are not responsible for any pre-existing software lockouts or bricked board failures."
+  },
+  {
+    "id": "warranty",
+    "title": "Warranty Terms",
+    "content": "Our standard repair warranty covers manufacturer defects in the replaced parts (screens, batteries, flex cables) for a period of 30 days from collection. The warranty is immediately voided in cases of physical drops, screen cracks, or subsequent water damage incurred post-repair."
+  },
+  {
+    "id": "conditions",
+    "title": "Repair Conditions",
+    "content": "Repairs involving micro-soldering or liquid ingress recovery carry a lower success rate and are performed on a best-effort basis. If a logic board is determined to be beyond repair, no labor fees are charged, and the client only pays the diagnostic scanning fee."
+  },
+  {
+    "id": "refund",
+    "title": "Refund Policy",
+    "content": "All sales are final. We do not offer refunds, returns, or exchanges on parts, products, or repair services. Any warranty claims are subject to inspection and approval by our technician."
+  },
+  {
+    "id": "privacy",
+    "title": "Privacy Policy",
+    "content": "We do not store, clone, or upload any user data, photos, accounts, or emails. Backups are performed locally on secure, offline SSD hardware and are permanently wiped 48 hours after customer collection."
+  }
+]
