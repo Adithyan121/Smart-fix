@@ -80,7 +80,7 @@ export default function App() {
           <WhyChooseUs />
 
           {/* Testimonials Marquee */}
-          <Testimonials />
+          {/* <Testimonials /> */}
 
           {/* Location Details and Google Map */}
           <StoreLocation />
